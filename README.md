@@ -30,26 +30,36 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+DOM stands for Document Object Model. it's eccntially like the bridge from html to the browser
+
 2. What is an event?
+
+An event is something that is happening, or being done. EX: clicking your mouse, dragging a picture, ect.
 
 3. What is an event listener?
 
-4. Why would we convert a NodeList into an Array?
+Event Listeners are what look for events, like click, so thta it can execute it
+
+4. Why would we convert a NodeList into an Array? 
+
+We'd make a nodeList into an Array to pull the information from it easier.
 
 5. What is a component?
 
+component is code that can be reused multiple times to make coding easier and faster.
+
 ### Git Set up
 
-* [ ] Fork the project into your GitHub user account
-* [ ] Clone the forked project into a directory on your machine
-* [ ] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
-* [ ] You are now ready to build this project with your preferred IDE
+* [x] Fork the project into your GitHub user account
+* [x] Clone the forked project into a directory on your machine
+* [x] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
+* [x] You are now ready to build this project with your preferred IDE
 
 ## Minimum Viable Product
 
 Your finished project must include all of the following requirements:
 
-* [ ] Look through the HTML code and familiarize yourself with the different sections. Some of them already exist, but some need to be filled in. DO NOT add any code to the HTML file itself.
+* [x] Look through the HTML code and familiarize yourself with the different sections. Some of them already exist, but some need to be filled in. DO NOT add any code to the HTML file itself.
 
 * [ ] Following the instructions in the `Header/index.js` file, create the Header component. 
 
