@@ -27,3 +27,5 @@ function newTab(topics){
 
     return tabs
 }
+
+//mvp is done i do believe.
